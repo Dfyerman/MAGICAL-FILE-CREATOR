@@ -104,7 +104,7 @@ ${install}
 
 ## Usage 
 
-![Usage](Develop\Images\Desktop Screenshot 2024.05.02 - 22.12.27.80.jpg)
+![Usage](./Images/Desktop-Screenshot-2024.05.02-22.12.24.27.jpeg)
 
 ${usage}
 
